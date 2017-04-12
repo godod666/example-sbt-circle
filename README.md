@@ -1,5 +1,7 @@
 # Black Duck CoPilot Scala Build Tool/Circle CI Example
 
+[![CircleCI](https://img.shields.io/circleci/project/github/BlackDuckCoPilot/example-sbt-circle/master.svg)](https://circleci.com/gh/BlackDuckCoPilot/example-sbt-circle)
+
 Shows a working setup for using the Black Duck CoPilot integration to analyze the risk of project dependencies
 
 ## Scala Build Tool Setup
