@@ -1,0 +1,4 @@
+test:
+  post:
+    - sbt -DdeployHubBdio=false buildBom
+    - bash <(curl -s https://copilot.blackducksoftware.com/bash/circle) ./target/blackduck/*_bdio.jsonld
